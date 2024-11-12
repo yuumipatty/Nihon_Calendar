@@ -61,9 +61,9 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Contributing
 
-##    Fork this repository.
-##    Make your changes or improvements.
-##    Submit a pull request.
+##    Fork this repository. -0-
+##    Changes or improvements. <3
+##    Submit a pull request. :>>>
 
 
  Getting Started
