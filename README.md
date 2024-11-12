@@ -61,12 +61,12 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Contributing
 
-    Fork this repository.
-    Make your changes or improvements.
-    Submit a pull request.
+##    Fork this repository.
+##    Make your changes or improvements.
+##    Submit a pull request.
 
 
-    Getting Started
+ Getting Started
 
 To use this program, you need to have a C compiler such as gcc installed on your system. Below are the steps to compile and run the program:
 Prerequisites
@@ -77,11 +77,11 @@ Running the Program
 
     Clone or download the repository to your local machine.
 
-    Navigate to the folder containing the main.c file.
+ #   Navigate to the folder containing the main.c file.
 
-    Compile the C program using gcc:
+#    Compile the C program using gcc:
     gcc -o calendar main.c
-    Run the program:
+#    Run the program:
     ./calendar
         Enter the month (1-12) and year when prompted, and the calendar for that month and year will be displayed.
 
