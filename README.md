@@ -1,6 +1,6 @@
 ### Nihon Calendar ###
 
-This is a simple C program that generates a Japanese calendar for a given month and year. It calculates the start day of the week and prints a calendar for that month. The calendar is displayed with both Japanese and English month names, as well as the Japanese era (e.g., Heisei, Reiwa).
+-This is a simple C program that generates a Japanese calendar for a given month and year. It calculates the start day of the week and prints a calendar for that month. The calendar is displayed with both Japanese and English month names, as well as the Japanese era (e.g., Heisei, Reiwa).
 Features
 
     Displays Japanese calendar: The program prints a calendar for the selected month and year with Japanese month names.
