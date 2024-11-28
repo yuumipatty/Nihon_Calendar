@@ -8,7 +8,7 @@ Features
     Displays day of the week: The program calculates and displays the starting day of the week for the given month.
     Japanese Era: The program displays the Japanese era (e.g., Reiwa, Heisei) based on the input year.
 
-How It Works
+How It Works++
 
     The program takes the month and year as input from the user.
     It calculates the starting day of the week for the first day of the given month using a simple formula.
